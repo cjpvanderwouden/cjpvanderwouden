@@ -1,16 +1,18 @@
-## Hi there 👋
+## Casper van der Wouden
 
-<!--
-**cjpvanderwouden/cjpvanderwouden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Econ + applied math. BSc at Maastricht, spend most of my time on silly projects I won't get graded on.
 
-Here are some ideas to get you started:
+⚠️ Economist, not engineer — it runs, don't ask about the git history
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Derivatives & Volatility
+- FFT Option Pricing — Carr-Madan across BS/Merton/Heston
+- Vol Surface Calibration — SVI/SSVI on SPY options
+- Impulse-Driven BS PDE — Dirac delta forcing, jump conditions
+- Rough Volatility Hedging — *in progress*
+
+### Strategies & Portfolios
+- Vol-Targeted Portfolio — multi-asset, ~0.9 Sharpe, –14% max DD
+- BOXX vs T-Bills — box spread analysis
+- Pairs Trading — Kalman filter + cointegration
+
+Most work lives in my pinned repos below ↓
