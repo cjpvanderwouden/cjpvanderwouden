@@ -2,7 +2,7 @@
 
 Econ + applied math.. BSc at Maastricht, spend most of my time on silly projects I won't get graded on.
 
-⚠️ Finance bro, not engineer — it runs, don't ask about edge cases
+⚠️ *Finance bro, not engineer* — it runs, don't ask about edge cases
 
 ### Derivatives & Volatility
 - FFT Option Pricing — Carr-Madan across BS/Merton/Heston
