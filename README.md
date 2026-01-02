@@ -1,8 +1,8 @@
-## Casper van der Wouden
+## CJP van der Wouden
 
-Econ + applied math. BSc at Maastricht, spend most of my time on silly projects I won't get graded on.
+Econ + applied math.. BSc at Maastricht, spend most of my time on silly projects I won't get graded on.
 
-⚠️ Economist, not engineer — it runs, don't ask about the git history
+⚠️ Finance bro, not engineer — it runs, don't ask about edge cases
 
 ### Derivatives & Volatility
 - FFT Option Pricing — Carr-Madan across BS/Merton/Heston
@@ -11,8 +11,8 @@ Econ + applied math. BSc at Maastricht, spend most of my time on silly projects 
 - Rough Volatility Hedging — *in progress*
 
 ### Strategies & Portfolios
-- Vol-Targeted Portfolio — multi-asset, ~0.9 Sharpe, –14% max DD
+- Vol-Targeted Portfolio — multi-asset, ~0.9 Sharpe, -14% max DD
 - BOXX vs T-Bills — box spread analysis
 - Pairs Trading — Kalman filter + cointegration
 
-Most work lives in my pinned repos below ↓
+Most work lives in my repos below ↓
