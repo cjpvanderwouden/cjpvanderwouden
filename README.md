@@ -1,6 +1,6 @@
 ## CJP van der Wouden
 
-Econ + applied math.. BSc at Maastricht, spend most of my time on silly projects I won't get graded on.
+Econ. BSc at Maastricht, spend most of my time on silly projects I won't get graded on.
 
 ⚠️ *Finance bro, not engineer* — it runs, don't ask about edge cases
 
