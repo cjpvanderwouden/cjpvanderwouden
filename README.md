@@ -1,6 +1,6 @@
 ## CJP van der Wouden
 
-Econ. BSc at Maastricht University, spend most of my time on projects I won't get graded on.
+Econ & Finance @ Maastricht. Derivatives, volatility, and questionable backtests.
 
 ⚠️ *Finance bro, not engineer* — it runs, don't ask about edge cases
 
