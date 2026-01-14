@@ -1,6 +1,6 @@
 ## CJP van der Wouden
 
-Econ & Finance @ Maastricht. Derivatives, volatility, and questionable backtests.
+Econ & Finance @ Maastricht. Derivatives, volatility, and some backtests.
 
 ⚠️ *Finance bro, not engineer* — it runs, don't ask about edge cases
 
