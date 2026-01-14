@@ -12,8 +12,8 @@ Econ & Finance @ Maastricht University.. Derivatives, volatility, and some backt
 
 ### Strategies & Portfolios
 - Vol-Targeted Portfolio — multi-asset, ~0.9 Sharpe, -14% max DD
+- VRP Harvesting — regime filters, ~2.0+ oos Sharpe, buut 99th pct luck analysis
 - BOXX vs T-Bills — box spread analysis
 - Pairs Trading — Kalman filter + cointegration
-- VRP Harvesting — regime filters, 99th pct luck analysis
 
 Most work lives in my repos below ↓
