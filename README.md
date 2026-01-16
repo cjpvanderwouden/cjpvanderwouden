@@ -7,7 +7,7 @@ Econ & Finance @ Maastricht University.. Derivatives, volatility, and some backt
 ### Derivatives & Volatility
 - FFT Option Pricing — Carr-Madan across BS/Merton/Heston
 - Vol Surface Calibration — SVI/SSVI on SPY options
-- Impulse-Driven BS PDE *(working paper)* — Dirac delta forcing, jump conditions
+- Impulse-Driven BS PDE — Dirac delta forcing, jump conditions *(working paper)*
 - Rough Volatility Hedging — *in progress*
 
 ### Strategies & Portfolios
