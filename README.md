@@ -16,4 +16,4 @@ Econ & Finance @ Maastricht University.. Derivatives, volatility, and some backt
 - BOXX vs T-Bills — box spread analysis
 - Pairs Trading — Kalman filter + cointegration
 
-Most work lives in my repos below ↓
+Most my work lives in repos below ↓
