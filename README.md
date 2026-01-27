@@ -2,7 +2,7 @@
 
 Econ & Finance @ Maastricht University.. Derivatives, volatility, and some backtests
 
-⚠️ *Finance bro, not engineer* — it runs, don't ask about edge cases
+!! *Finance bro, not engineer* — it runs, don't ask about edge cases
 
 ### Derivatives & Volatility
 - FFT Option Pricing — Carr-Madan across BS/Merton/Heston
